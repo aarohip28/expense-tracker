@@ -30,5 +30,6 @@ git clone https://github.com/aarohip28/expense-tracker.git
 
 cd expense-tracker
 
-Run the application:
+## 🛠️ Run the application:
+
 python main.py
