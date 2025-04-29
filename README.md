@@ -27,6 +27,7 @@ Ensure you have Python 3.x installed on your system. Additionally, install the r
 ## 🛠️ Installation
 pip install tkcalendar
 git clone https://github.com/aarohip28/expense-tracker.git
+
 cd expense-tracker
 
 Run the application:
